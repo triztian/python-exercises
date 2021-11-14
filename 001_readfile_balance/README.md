@@ -9,6 +9,7 @@ symbol.
   1. The file must be specified as an argument to the script
   2. The program should be able to handle values with and without both the 
      currency and sign
+  3. The program should handle values with leading and traling spaces (surrounded by spaces or tabs)
   3. Values in the file may or may not have decimals
   4. The output should have 2 decimal digits
 
@@ -19,18 +20,18 @@ The contents of the input file shown below, they should add up to `100.00`:
 ```
 $10
 11
-45.12
+      45.12			
 -10
 -$55.00
-111.34
-134
+     111.34
+  134
 -120
 -34
 8
 -0.4634.8
 -$123.53
 +123.4
-+$123.8
+        +$123.8
 ```
 
 > **NOTE:** See `account.txt` for a full sample input file
