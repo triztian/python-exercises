@@ -61,8 +61,8 @@ How this was calculated:
      G1, G2, G3 and dividing by 3 for every student:  
 	 s1 = (5 + 6 + 6) / 3 = 5.66  
 	 s2 = (14 + 16 + 16) / 3 = 15.33  
-	 s3 = (12 + 3 + 3) / 3 = 6.0
-	 s3 = (5 + 5 + 6) / 3 = 5.33  
+	 s3 = (12 + 3 + 3) / 3 = 6.0  
+	 s4 = (5 + 5 + 6) / 3 = 5.33  
 	 s5 = (10 + 8 + 7) / 3 = 8.33
 
   2. Next we calculate the average for each school, this is done by adding the
@@ -71,7 +71,7 @@ How this was calculated:
 
      UABC (2 students) = (s1 + s4) / 2 = (5.66 + 5.33) / 2 = 10.83  
      UTT (2 students) = (s2 + s5) / 2 = (15.33 + 8.33) / 2 = 11.83  
-	 WGU (1 student) = (s3) / 1 = (6) / 1 = 6.0 (1 student)  
+     WGU (1 student) = (s3) / 1 = (6) / 1 = 6.0 (1 student)  
 
   3. Now that we have the values we should be able to order the schools based on
      their average, this yields the following rank from top to bottom:
