@@ -68,6 +68,16 @@ True
 
   * See common string operations reference
 
+#### Creating another substrin
+
+```python
+>>> s = "$99.0$"
+>>> s[1:len(s)-1]
+'99.0'
+```
+
+  * See common string operations reference
+
 #### Deleting characters from a string
 
 ```python
