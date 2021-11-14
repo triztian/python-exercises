@@ -119,3 +119,4 @@ Hello
   * [Common String Operations](https://docs.python.org/3/library/string.html)
   * [Formatting Currency](https://stackoverflow.com/a/320951/496351)
   * [Python round() function](https://docs.python.org/3/tutorial/floatingpoint.html#tut-fp-issues)
+  * [Python string strip() function](https://docs.python.org/3/library/stdtypes.html?highlight=strip#str.strip)
