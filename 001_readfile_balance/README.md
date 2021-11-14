@@ -48,6 +48,15 @@ python3 balance.py account.txt
 $100.00
 ```
 
+### Recommended progression
+
+  1. Be able to get the command line file path
+  2. Be able to open the file and print each line one by one
+  3. "Clean" each of the lines into a valid number, i.e. `"$10.00"` to `"10.00"` and `"-$10.33"` to `"-10.00"`
+  4. Convert each of the clean lines into an `int`
+  5. Perform the sum
+  6. Print the formatted sum
+
 ----
 
 ### Snippet hints
