@@ -71,7 +71,7 @@ How this was calculated:
 
      UABC (2 students) = (s1 + s4) / 2 = (5.66 + 5.33) / 2 = 10.83  
      UTT (2 students) = (s2 + s5) / 2 = (15.33 + 8.33) / 2 = 11.83  
-     WGU (1 student) = (s3) / 1 = (6) / 1 = 6.0 (1 student)  
+     WGU (1 student) = (s3) / 1 = (6) / 1 = 6.0
 
   3. Now that we have the values we should be able to order the schools based on
      their average, this yields the following rank from top to bottom:
