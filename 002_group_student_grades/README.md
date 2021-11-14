@@ -147,10 +147,10 @@ Spam, Lovely Spam, Wonderful Spam
 
 ## References
 
-  * [Python csv library](https://docs.python.org/3/library/csv.html)
+  * [Python `csv` library](https://docs.python.org/3/library/csv.html)
   * [Python `round()` function](https://docs.python.org/3/library/functions.html#round)
-  * [Python min() function](https://docs.python.org/3/library/functions.html#min)
-  * [Python max() function](https://docs.python.org/3/library/functions.html#max)
+  * [Python `min()` function](https://docs.python.org/3/library/functions.html#min)
+  * [Python `max()` function](https://docs.python.org/3/library/functions.html#max)
 
 
 ## Credits
