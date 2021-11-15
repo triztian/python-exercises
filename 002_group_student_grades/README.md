@@ -106,6 +106,13 @@ with open('eggs.csv', newline='') as csvfile:
         print(', '.join(row))
 ```
 
+**Output:**
+```
+Spam, Spam, Spam, Spam, Spam, Baked Beans
+Spam, Lovely Spam, Wonderful Spam
+```
+
+
 ### Minimum and maximum of a list
 
 **Minumum:**
@@ -130,19 +137,11 @@ with open('eggs.csv', newline='') as csvfile:
 [1, 3, 5, 8, 10, 11, 12, 12, 15, 16]
 ```
 
-
-
 ### Rounding Decimals
 
 ```python
 >>> round(10.333435, 2)
 10.33
-```
-
-**Output:**
-```
-Spam, Spam, Spam, Spam, Spam, Baked Beans
-Spam, Lovely Spam, Wonderful Spam
 ```
 
 ## References
