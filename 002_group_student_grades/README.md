@@ -69,7 +69,7 @@ How this was calculated:
      average of each student and dividing by the number of students of the same 
      school:
 
-     UABC (2 students) = (s1 + s4) / 2 = (5.66 + 5.33) / 2 = 10.83  
+     UABC (2 students) = (s1 + s4) / 2 = (5.66 + 5.33) / 2 = 5.49  
      UTT (2 students) = (s2 + s5) / 2 = (15.33 + 8.33) / 2 = 11.83  
      WGU (1 student) = (s3) / 1 = (6) / 1 = 6.0
 
@@ -77,8 +77,8 @@ How this was calculated:
      their average, this yields the following rank from top to bottom:
        
 	   1. UTT 
-	   2. UABC
-	   3. WGU
+	   2. WGU
+	   3. UABC
 
   4. Now for each school we must determin the top and bottom average amongst the
     students and print them accordingly.
